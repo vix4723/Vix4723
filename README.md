@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-My name is Victoria (she/her) and I am currently a second-year at the University of Virginia. 
+My name is Victoria (Vix) and I am currently a fourth-year at the University of Virginia. 
 
-I created this github to share my coding and programming journey attending all sort of Hackathons while at the same time I share my school projects.
+I created this github to share my coding and programming journey and experience while at the same time I share my personal projects.
 
 ## About Me
 
 - 🎓 Currently attending the University of Virginia pursuing a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
-- 🔭 I’m currently working on improving my Java and C++ skills.
-- 🌱 I’m currently learning and highly interested in AR/VR.
+- 🔭 I’m currently working on improving my skills and looking for people who are willing to change the world with me.
+- 🌱 I’m currently learning and highly interested in Business Analytics and Financial Technology.
 - 👯 I’m looking to collaborate on potential start-up projects that could involve community engagements and social collaboration.
 
 ## My Interests
-- 🎮 I like videogames and in love with Tom Clancy's Rainbow Six Siege. I've been playing that game a lot of hours.
-- 💬 Ask me about anything related to the VideoGame Industry as well as the Tech industry.
+- 💬 Ask me about anything related to Finance or the Technology Industry.
 
 ## Contact Me
 
