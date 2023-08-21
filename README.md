@@ -8,7 +8,7 @@ I created this github to share my coding and programming journey and experience 
 
 - 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
 - 🔭 I’m currently working on improving my skills and looking for people who are willing to change the world with me.
-- 🌱 I’m currently learning and highly interested in Business Analytics and Financial Technology.
+- 🌱 I’m currently learning and highly interested in Product Management, Business Analytics, Software Engineering, and Financial Technology.
 - 👯 I’m looking to collaborate on potential start-up projects that could involve community engagements and social collaboration.
 
 ## My Interests
@@ -17,5 +17,5 @@ I created this github to share my coding and programming journey and experience 
 ## Contact Me
 
 📫 How to reach me: 
-- 🐦 Twitter: @vix_clotet
+- 🐦 X: @vix_clotet
 - ✉️ Email: vixbusinesstech@gmail.com
