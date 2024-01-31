@@ -17,5 +17,6 @@ I created this github to share my coding and programming journey and experience 
 ## Contact Me
 
 📫 How to reach me: 
+- 🔗 LinkedIn: https://www.linkedin.com/in/victoria-clotet/
 - 🐦 X: @vix_clotet
 - ✉️ Email: vixbusinesstech@gmail.com
