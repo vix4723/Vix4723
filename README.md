@@ -7,7 +7,7 @@ I created this github to share my coding and programming journey and experience 
 ## About Me
 
 - 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
-- 🔭 I’m currently working on improving my skills and looking for people who are willing to change the world with me.
+- 🔭 I’m currently working on improving my skills.
 - 🌱 I’m highly interested in Product Management, Business Analytics, Software Engineering, and Financial Technology.
 
 ## My Interests
