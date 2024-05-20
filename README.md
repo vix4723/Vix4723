@@ -20,7 +20,7 @@ I created this github to share my coding and programming journey and experience 
 
 📫 How to reach me: 
 - 🔗 LinkedIn: https://www.linkedin.com/in/victoria-clotet/
-- 🐦 X: @vix_clotet
+- 🐦 X: @vixclotet
 - ✉️ Email: vixbusinesstech@gmail.com
 
 ## 💻 Tech Stack:
