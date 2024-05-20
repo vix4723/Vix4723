@@ -13,7 +13,8 @@ I created this github to share my coding and programming journey and experience 
 ## My Interests
 - 💬 Ask me about anything about
   - Finance
-  - Technology Industry.
+  - Tech
+  - UI/UX Design
 
 ## Contact Me
 
